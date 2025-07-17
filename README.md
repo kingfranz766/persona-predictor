@@ -3,10 +3,10 @@ Persona Predictor is a web-based personality classification app built using Stre
 
 ## **🚀 Features**
 **📊 Slider-based Questionnaire covering:**
-  ◦ Cognitive & Emotional Traits
-  ◦ Social Behavior & Interaction
-  ◦ Lifestyle & Preferences
-  ◦ Organizational Traits
+◦ Cognitive & Emotional Traits
+◦ Social Behavior & Interaction
+◦ Lifestyle & Preferences
+◦ Organizational Traits
   
 **🔮 Machine Learning-Based Prediction** with confidence level
 
@@ -38,11 +38,11 @@ Make sure you have the following Python libraries installed:
 2. The answers are compiled into a feature vector.
 
 3. The input is passed to a machine learning model (logistic regression) that:
-  ◦ Scales the input
-  ◦ Predicts personality type
-  ◦ Computes a confidence score
+◦ Scales the input
+◦ Predicts personality type
+◦ Computes a confidence score
 
 4. The app displays:
-  ◦ Your predicted personality type
-  ◦ A radar chart showing your trait profile
-  ◦ A bar chart showing the top traits influencing the result
+◦ Your predicted personality type
+◦ A radar chart showing your trait profile
+◦ A bar chart showing the top traits influencing the result
