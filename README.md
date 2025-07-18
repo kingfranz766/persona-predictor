@@ -22,10 +22,17 @@ pip install streamlit pandas plotly matplotlib scikit-learn seaborn
 
 ## **How to Run the App**
 - Clone or download the project.
+ ```bash
+cd YourProjectDirectory
+#Example cd C:\personality-type-classifier-g9
+
+git clone https://github.com/kingfranz766/persona-predictor.git
+```
+
 - Navigate to the project directory in your terminal.
 ```bash
 cd YourProjectDirectory
-#Example: "C:\personality-type-classifier-g9"
+#Example: cd C:\personality-type-classifier-g9
 ```
 - Run the Streamlit app:
 ```bash
