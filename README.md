@@ -38,11 +38,14 @@ http://localhost:8501
 
 ## **How It Works**
 _Users answer behavioral and preference-based questions via interactive sliders._
+
 _The answers are compiled into a Dataframe._
+
 _The input is passed to a machine learning model (logistic regression) that:_
   - Scales the input
   - Predicts personality type
   - Computes a confidence score
+  - 
 _The app then displays:_
   - Your predicted personality type
   - A radar chart showing your trait profile
