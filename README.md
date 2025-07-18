@@ -45,7 +45,7 @@ _The input is passed to a machine learning model (logistic regression) that:_
   - Scales the input
   - Predicts personality type
   - Computes a confidence score
-  - 
+
 _The app then displays:_
   - Your predicted personality type
   - A radar chart showing your trait profile
