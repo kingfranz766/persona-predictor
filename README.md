@@ -25,6 +25,7 @@ pip install streamlit pandas plotly matplotlib scikit-learn seaborn
 - Navigate to the project directory in your terminal.
 ```bash
 cd YourProjectDirectory
+#Example: "C:\personality-type-classifier-g9"
 ```
 - Run the Streamlit app:
 ```bash
