@@ -16,35 +16,35 @@ Persona Predictor is a web-based personality classification app built using Stre
 
 **Page Navigation** (Form ↔ Results)
 
-## **📦 Dependencies**
+## **Requirements**
 Make sure you have the following Python libraries installed:  
 ```bash
 pip install streamlit pandas plotly matplotlib scikit-learn seaborn  
 ```
 
-## **▶️ How to Run the App**
-1. Clone or download the project.
-   
-2. Navigate to the project directory in your terminal.
-   
-3. Run the Streamlit app:
-**streamlit run** persona_predictor.py
-
-4. The app will open in your web browser at:
-**http://localhost:8501**
-
+## **How to Run the App**
+- Clone or download the project.
+- Navigate to the project directory in your terminal.
+```bash
+cd YourProjectDirectory
+```
+- Run the Streamlit app:
+```bash
+streamlit run persona_predictor.py
+```
+- The app will open in your web browser at:
+```bash
+http://localhost:8501
+```
 
 ## **How It Works**
-1. Users answer behavioral and preference-based questions via interactive sliders.
-
-2. The answers are compiled into a feature vector.
-
-3. The input is passed to a machine learning model (logistic regression) that:
-◦ Scales the input
-◦ Predicts personality type
-◦ Computes a confidence score
-
-4. The app displays:
-◦ Your predicted personality type
-◦ A radar chart showing your trait profile
-◦ A bar chart showing the top traits influencing the result
+- **Users answer behavioral and preference-based questions via interactive sliders.**
+- **The answers are compiled into a Dataframe.**
+- **The input is passed to a machine learning model (logistic regression) that:**
+  - Scales the input
+  - Predicts personality type
+  - Computes a confidence score
+- **The app then displays:**
+  - Your predicted personality type
+  - A radar chart showing your trait profile
+  - A bar chart showing the top traits influencing the result
