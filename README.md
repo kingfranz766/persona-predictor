@@ -1,7 +1,7 @@
 ## **🧠 Persona Predictor**
 Persona Predictor is a web-based personality classification app built using Streamlit. It evaluates users’ responses to psychological and behavioral questions and predicts whether their personality type is Introvert, Ambivert, or Extrovert, along with a confidence score and explanation.
 
-## **🚀 Features**
+## **Features**
 **Slider-based Questionnaire covering:** 
 - Cognitive & Emotional Traits
 - Social Behavior & Interaction
@@ -17,8 +17,10 @@ Persona Predictor is a web-based personality classification app built using Stre
 **Page Navigation** (Form ↔ Results)
 
 ## **📦 Dependencies**
-Make sure you have the following Python libraries installed:                                                                                                                                                          
-**pip install** streamlit pandas plotly matplotlib scikit-learn seaborn  
+Make sure you have the following Python libraries installed:  
+```bash
+pip install streamlit pandas plotly matplotlib scikit-learn seaborn  
+```
 
 ## **▶️ How to Run the App**
 1. Clone or download the project.
