@@ -9,11 +9,8 @@ Persona Predictor is a web-based personality classification app built using Stre
 - Organizational Traits
  
 **Machine Learning-Based Prediction** with confidence level
-
 **Visual Trait Breakdown** via radar chart and feature importance bar graph
-
 **Personality Type Explanation** with matching traits
-
 **Page Navigation** (Form ↔ Results)
 
 ## **Requirements**
