@@ -36,7 +36,7 @@ cd YourChosenDirectory
 ```
 - Run the Streamlit app:
 ```bash
-streamlit run persona_predictor.py
+streamlit run persona-predictor.py
 ```
 - The app will open in your web browser at:
 ```bash
